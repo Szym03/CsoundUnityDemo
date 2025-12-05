@@ -94,6 +94,6 @@ f0 z   ; keeps Csound running indefinitely
 
 - [CsoundUnity Documentation](https://rorywalsh.github.io/CsoundUnity/)
 - [CsoundUnity GitHub Repository](https://github.com/rorywalsh/CsoundUnity)
-- [My in-class demo Unity project](https://github.com/Szym03/MTEC340)
+- [My in-class demo Unity project](https://github.com/Szym03/CsoundUnityDemo)
 - [Csound Official Website](https://csound.com/)
 # CsoundUnityDemo
